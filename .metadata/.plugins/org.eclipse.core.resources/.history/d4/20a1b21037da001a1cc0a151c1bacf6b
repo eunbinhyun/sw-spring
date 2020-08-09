@@ -1,0 +1,21 @@
+package com.devfun.vo;
+
+public class MovieVO {
+	private String movieName;
+	private String director;
+	private String types;
+	
+	public String getMovieName() {
+		return movieName;
+	}
+	public String getDirector() {
+		return director;
+	}
+	public String getTypes() {
+		return types;
+	}
+	
+	
+	
+	
+}

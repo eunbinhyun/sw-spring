@@ -1,0 +1,9 @@
+package com.devfun.vo;
+
+public class MovieVO {
+	private String movieName;
+	private String director;
+	private String types;
+	
+	
+}
