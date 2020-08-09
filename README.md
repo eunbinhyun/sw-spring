@@ -20,7 +20,7 @@
 
     * Dao, Service, Home Controller, VO 작성
 
-    * [이슈1] root-context.xml파일 <mybatis-spring:scan../> 에러
+    * [이슈1] root-context.xml파일 <context:component-scan> 에러
 
           하단 Namespaces탭에서 context에 체크
 
