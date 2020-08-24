@@ -63,3 +63,36 @@
 
 
 <br>
+
+## Week 3: RestController, DataBinding
+
+1. Spring : Rest Controller를 이용한 데이터 처리 (jackson) (완료)
+
+   * visualize_pilot 프로젝트 생성
+
+   * pom.xml에 Jackson library 추가
+
+   * restController.java 작성
+
+<br>
+
+2. DataBinding을 위한 화면 구조 변경, 지원 작성 (완료)
+
+   * home.jsp 수정
+
+   * common_resource.jsp, home.css, home.js, jquery-1.12.4min.js 추가
+
+   * servlet-context.xml 수정
+
+<br>
+
+3. 기타
+
+   * 3주차 온라인 세션 : API 문서, spring 및 과제 소개
+   
+      - 일시: 8월 19일 20:00 ~ 22:00
+      
+      - 참석자 : 리드멘토 이외 멘티
+      
+      
+      
