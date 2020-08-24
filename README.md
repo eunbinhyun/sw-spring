@@ -1,4 +1,4 @@
-# sw-spring
+# 주간업무보고
 
 ## Week 1: 개발환경 셋팅
 
@@ -44,3 +44,22 @@
       - 일시 : 8월 5일 20:00 ~ 22:00
 
       - 참석자 : 리드멘토 이외 멘티
+
+<br>
+
+## Week 2: 차트선택, 테스트
+
+1. 차트 테스트 (완료)
+
+   * d3.js 차트 선택
+   
+   * charttest프로젝트 생성 후 chart_ex.html, data.tsv 작성
+    
+<br>
+
+2. API Interface Guide 작성 (완료)
+
+   * [인터페이스 가이드 문서](https://github.com/eunbinhyun/sw-spring/blob/master/doc/%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4%20%EA%B0%80%EC%9D%B4%EB%93%9C%20%EB%AC%B8%EC%84%9C.docx)
+
+
+<br>
