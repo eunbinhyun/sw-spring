@@ -8,7 +8,13 @@
 		<item key="isRegEx" value="false"/>
 		<item key="selection" value=""/>
 		<list key="findhistory">
+			<item value="wine"/>
+			<item value="movie"/>
+			<item value="alcohol"/>
+			<item value="alco"/>
 			<item value="setting"/>
+			<item value="visualize"/>
+			<item value="visualiz"/>
 			<item value="settingweb"/>
 			<item value="t.length"/>
 			<item value="data."/>
@@ -20,8 +26,8 @@
 		</list>
 	</section>
 	<section name="org.eclipse.ui.texteditor.FindReplaceDialog_dialogBounds">
-		<item key="DIALOG_X_ORIGIN" value="842"/>
-		<item key="DIALOG_Y_ORIGIN" value="185"/>
+		<item key="DIALOG_X_ORIGIN" value="902"/>
+		<item key="DIALOG_Y_ORIGIN" value="261"/>
 		<item key="DIALOG_WIDTH" value="310"/>
 		<item key="DIALOG_HEIGHT" value="434"/>
 		<item key="DIALOG_FONT_NAME" value="1|맑은 고딕|10.5|0|WINDOWS|1|-14|0|0|0|400|0|0|0|1|0|0|0|0|맑은 고딕"/>

@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <aop-reference-model>
+<aop-project name="wine_quality"/>
 <aop-project name="settingweb"/>
 <aop-project name="visualize_pilot"/>
 </aop-reference-model>

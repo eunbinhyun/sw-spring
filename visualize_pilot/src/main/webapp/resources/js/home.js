@@ -9,14 +9,13 @@ function load_movielist(){
     $("#load_movieList").click(function(){  
     
         var url="/visualize_pilot/restex";  
-        //var params="param1="+param1+"¶m2="+param1;  
   
         $.ajax({      
             type:"POST",  
             url:url,      
             //data:params,      
             success:function(args){
-                movieList = args;
+                movieList = argQs;
                 for(var i=0;i<args.length;i++){
                     html = "<tr>"
                             + "<td>" + args[i].movie_name + "</td>" 
