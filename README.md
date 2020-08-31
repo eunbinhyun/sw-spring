@@ -93,6 +93,37 @@
       - 일시: 8월 19일 20:00 ~ 22:00
       
       - 참석자 : 리드멘토 이외 멘티
-      
+
+<br>
+
+## Week 4: spring을 활용한 차트 개발
+
+1. 프로젝트 셋팅 (완료)
+
+   * wine_quality 프로젝트 생성
+
+   * kaggle에서 wine_quality csv 다운
+
+   * 데이터베이스, 테이블 생성
+
+<br>
+
+2. 데이터로 차트그리기 (완료)
+
+   * test.xml 쿼리문
+  
+          SELECT alcohol, quality, total_sulfur_dioxide FROM PRODUCT_QUALITY          
+          SELECT type, ROUND(AVG(volatile_acidity),2) AS volatile_acidity, ROUND(AVG(citric_acid),2) AS citric_acid, ROUND(AVG(chlorides), 2) AS chlorides, ROUND(AVG(sulphates), 2) AS sulphates, ROUND(AVG(density), 2) AS density FROM PRODUCT_QUALITY GROUP BY TYPE
+          
+   * home.js, home.jsp, home.css 작성
+   
+   * plotly.min.js, highchart 활용
+   
+   ![dd](./imgs/graph1.png)
+
+   ![dd](./imgs/graph2.png)
+
+   ![dd](./imgs/graph3.png)
+
       
       
