@@ -6,8 +6,13 @@
 		<item key="wholeword" value="false"/>
 		<item key="incremental" value="false"/>
 		<item key="isRegEx" value="false"/>
-		<item key="selection" value=""/>
+		<item key="selection" value="random"/>
 		<list key="findhistory">
+			<item value="random"/>
+			<item value="plotly"/>
+			<item value="myDiv"/>
+			<item value="movieList"/>
+			<item value="argQs"/>
 			<item value="wine"/>
 			<item value="movie"/>
 			<item value="alcohol"/>
@@ -18,9 +23,6 @@
 			<item value="settingweb"/>
 			<item value="t.length"/>
 			<item value="data."/>
-			<item value="spring"/>
-			<item value="5.1.8"/>
-			<item value="m"/>
 		</list>
 		<list key="replacehistory">
 		</list>
